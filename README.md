@@ -8,8 +8,8 @@
 ### MUX
 ![Mux](/MUX.png)
 ### HALF ADDER
-![Half Adder](/HALF ADDER.png)
+![Half Adder](/HALFADDER.png)
 ### FULL ADDER
-![Half Adder](/FULL ADDER.png)
+![Half Adder](/FULLADDER.png)
 ### Multiplicador
 ![Multiplicador](MULTIPLICADOR.png)
