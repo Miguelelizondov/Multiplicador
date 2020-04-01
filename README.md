@@ -6,10 +6,10 @@
 [Logisim](https://github.com/Miguelelizondov/Multiplicador/blob/master/ADDER%20.circ)
 ## Fotos del esquemático
 ### MUX
-[Mux](/MUX.png)
+![Mux](/MUX.png)
 ### HALF ADDER
-[Half Adder](/HALF ADDER.png)
+![Half Adder](/HALF ADDER.png)
 ### FULL ADDER
-[Half Adder](/FULL ADDER.png)
+![Half Adder](/FULL ADDER.png)
 ### Multiplicador
-[Multiplicador](MULTIPLICADOR.png)
+![Multiplicador](MULTIPLICADOR.png)
